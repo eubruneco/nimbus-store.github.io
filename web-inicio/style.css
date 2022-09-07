@@ -112,7 +112,7 @@ p {
 
 #botao:hover {
   background-color: #900;
-  transition: 0.3s;
+  transition: 0.5s;
   border: 1.5px solid rgb(77, 13, 8);
 }
 
@@ -146,7 +146,7 @@ p {
 
 #vantagens-item:hover {
   border-left: 5px solid #e21;
-  transition: 0.05s;
+  transition: 0.7s;
 }
 #vantagens-item:nth-child(odd) {
   background-color: #eeeeee;
